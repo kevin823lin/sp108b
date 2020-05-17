@@ -1,6 +1,6 @@
-a = 0;
-b = 2;
-if (a > 0)
-    c = a;
+a = 3;
+b = 5;
+if (a > b)
+    t = a;
 else
-    c = b;
+    t = b;
