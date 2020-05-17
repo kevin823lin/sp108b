@@ -1,4 +1,4 @@
-# 習題: 為 05-compiler-run 加上 IF 的語法
+# 習題：為 05-compiler-run 加上 IF 的語法
 
 ## 檔案關係
 ```
