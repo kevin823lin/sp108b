@@ -1,4 +1,4 @@
-# Compiler
+# 習題：編譯器加上 IF 的語法
 
 ## 語法
 
@@ -14,6 +14,20 @@ E = F (op E)*
 F = (E) | Number | Id
 ```
 
+## 測試方法
+1. 於作業目錄執行make以透過Makefile寫好的參數編譯compiler
+2. 執行.\compiler .\test\if.c
+
+## 測試範例 .\test\if.c
+```
+a = 0;
+b = 2;
+if (a > 0)
+    c = a;
+else
+    c = b;
+```
+
 ## 執行結果
 
 ```
@@ -23,8 +37,10 @@ gcc -std=c99 -O0 lexer.c compiler.c main.c -o compiler
 PS D:\檔案\課程\1082\系統程式\sp108b\HW-03-compiler> .\compiler .\test\if.c
 a = 0;
 b = 2;
-if (a > 0) c = a;
-else c = b;      
+if (a > 0)
+    c = a;
+else
+    c = b;
 ========== lex ==============
 token=a
 token==
