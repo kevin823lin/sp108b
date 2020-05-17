@@ -19,6 +19,7 @@ F = (E) | Number | Id
 ```
 PS D:\檔案\課程\1082\系統程式\sp108b\HW-03-compiler> make
 gcc -std=c99 -O0 lexer.c compiler.c main.c -o compiler
+
 PS D:\檔案\課程\1082\系統程式\sp108b\HW-03-compiler> .\compiler .\test\if.c
 a = 0;
 b = 2;
