@@ -27,7 +27,7 @@ for(i = 1 ; i < 20 ; i = i + 3)
 i = 0;
 ```
 
-## 執行結果
+## 執行結果 .\test\for.c (for 語法)
 ```
 PS D:\檔案\課程\1082\系統程式\sp108b\midterm> .\compiler .\test\for.c -ir -run
 =======irDump()==========
@@ -136,7 +136,7 @@ B:
 a = a + 6;
 ```
 
-## 執行結果
+## 執行結果 .\test\goto.c (goto、if 語法)
 ```
 PS D:\檔案\課程\1082\系統程式\sp108b\midterm> .\compiler .\test\goto.c -ir -run
 =======irDump()==========
