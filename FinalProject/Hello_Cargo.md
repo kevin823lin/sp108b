@@ -11,7 +11,7 @@ cd hello_cargo
 ```
 * 用 Cargo 建立項目會自動建立 Cargo.toml, src/main.rs 與 git 倉
 
-![](https://github.com/kevin823lin/sp108b/tree/master/FinalProject/src/3.1.png)
+![](https://github.com/kevin823lin/sp108b/blob/master/FinalProject/src/3.1.png?raw=true)
 
 ## 3. 查看`Cargo.toml`
 * `[package]`，一個片段標題，用來定義 package
@@ -20,6 +20,7 @@ cd hello_cargo
 * `authors`，項目作者
 * `edition`，要使用的 Rust 版本
 * `[dependencies]`，一個片段標題，列出套件依存項目
+
 ```
 [package]
 name = "hello_cargo"
@@ -27,10 +28,11 @@ version = "0.1.0"
 authors = ["kevin823lin <kevin823lin@gmail.com>"]
 edition = "2018"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+\# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 ```
+
 ## 4. 查看`src/main.rs`
 * Cargo 自動生成一個 Hello, world! 的範例
 ```
@@ -45,11 +47,11 @@ fn main() {
 cargo run
 ```
 
-![](https://github.com/kevin823lin/sp108b/tree/master/FinalProject/src/3.2.png)
+![](https://github.com/kevin823lin/sp108b/blob/master/FinalProject/src/3.2.png?raw=true)
 
 ## 6. 單純並快速地檢查程式碼是否能編譯
 ```
 cargo check
 ```
 
-![](https://github.com/kevin823lin/sp108b/tree/master/FinalProject/src/3.3.png)
+![](https://github.com/kevin823lin/sp108b/blob/master/FinalProject/src/3.3.png?raw=true)

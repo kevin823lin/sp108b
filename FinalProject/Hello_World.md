@@ -15,7 +15,7 @@ C:\Users\kevin\projects\hello_world>
 
 * 在環境變數 %USERPROFILE% (C:\Users\kevin) 底下創建項目目錄
 
-![](https://github.com/kevin823lin/sp108b/tree/master/FinalProject/src/2.1.png)
+![](https://github.com/kevin823lin/sp108b/blob/master/FinalProject/src/2.1.png?raw=true)
 
 ## 2. 編寫並執行 Rust 程式
 
@@ -33,7 +33,7 @@ fn main() {
 * 輸入`main`或下列格式來執行 main.exe
     
 
-![](https://github.com/kevin823lin/sp108b/tree/master/FinalProject/src/2.2.png)
+![](https://github.com/kevin823lin/sp108b/blob/master/FinalProject/src/2.2.png?raw=true)
 
 # ​分析程式碼
 ## 1. main()
