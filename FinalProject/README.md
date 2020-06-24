@@ -1,4 +1,4 @@
-> ​[github 連結](https://github.com/kevin823lin/sp108b/tree/master/FinalProject/projects/md/)​
+> ​[github 連結](https://github.com/kevin823lin/sp108b/tree/master/FinalProject/md)​
 
 > 說明：
 > 
