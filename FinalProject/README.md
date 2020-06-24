@@ -1,4 +1,4 @@
-> ​[github 連結](https://github.com/kevin823lin/sp108b/tree/master/FinalProject/md)​
+# ​[gitbook 連結](https://kevin823lin.gitbook.io/learn-rust-from-zero/)​
 
 > 說明：
 > 
