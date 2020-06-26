@@ -1,5 +1,3 @@
-## 第一個小程式-[ID Creator](https://github.com/kevin823lin/sp108b/blob/master/FinalProject/ID_creator/)
-
 ## 1. 使用 Cargo 創建項目
 ```
 cargo new ID_creator
@@ -67,7 +65,6 @@ cd ID_creator
             sum += b * 9;
 
             print!("{}", letter[a * 10 + b]); // 輸出英文字母
-            
             
             let mut temp = 0;
             match string.as_str() { // 判斷輸出身分
