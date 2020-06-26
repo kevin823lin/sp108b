@@ -1,3 +1,4 @@
+> [gitbook 連結](https://kevin823lin.gitbook.io/learn-rust-from-zero/install-rust)
 # 安裝 Rust
 ## 1. 從[官網](https://rust-lang.org/zh-TW/tools/install)下載rustup
 

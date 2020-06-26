@@ -1,3 +1,5 @@
+> ​[gitbook 連結](https://kevin823lin.gitbook.io/learn-rust-from-zero/hello-cargo)​
+
 以下是原書中 Cargo 的介紹
 > Cargo 是 Rust 的构建系统和包管理器。大多数 Rustacean 们使用 Cargo 来管理他们的 Rust 项目，因为它可以为你处理很多任务，比如构建代码、下载依赖库并编译这些库。（我们把代码所需要的库叫做 依赖（dependencies））。
 ## 1. 查看版本狀態

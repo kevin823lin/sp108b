@@ -1,3 +1,5 @@
+> ​[gitbook 連結](https://kevin823lin.gitbook.io/learn-rust-from-zero/hello-world)​
+
 # 編寫與執行
 ## 1. 創建項目目錄
 

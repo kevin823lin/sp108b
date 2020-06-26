@@ -1,3 +1,5 @@
+> ​[gitbook 連結](https://kevin823lin.gitbook.io/learn-rust-from-zero/id-creator)​
+
 ## 1. 使用 Cargo 創建項目
 ```
 cargo new ID_creator
