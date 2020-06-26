@@ -55,3 +55,6 @@ cargo check
 ```
 
 ![](https://github.com/kevin823lin/sp108b/blob/master/FinalProject/src/3.3.png?raw=true)
+
+# 參考資料
+* [Rust 程序设计语言（第二版 & 2018 edition）简体中文版](https://kaisery.gitbooks.io/trpl-zh-cn/)​
