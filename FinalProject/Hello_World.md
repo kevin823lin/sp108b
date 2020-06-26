@@ -51,3 +51,6 @@ fn main() {
 ```
     println!("Hello, world!");
 ```
+
+# 參考資料
+* [Rust 程序设计语言（第二版 & 2018 edition）简体中文版](https://kaisery.gitbooks.io/trpl-zh-cn/)​
